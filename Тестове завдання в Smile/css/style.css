@@ -1,0 +1,240 @@
+/*Title section*/
+.elements{
+    font-family:'Marvel';
+    font-weight: normal;
+    font-style: normal;
+    color: red;
+    position:absolute;
+    left: 200px; 
+}
+.text{
+    font-family:'Marvel';
+    font-weight: normal;
+    font-style: normal;
+    position:absolute;
+    left: 220px; 
+}
+/*Link section*/
+.link-elements-1{
+    font-family: 'Marvel';
+    font-weight: normal;
+    font-style: italic;
+    color: grey;
+    position:absolute;
+    left: 250px; 
+    top: 50px;
+    text-decoration: underline;
+}
+.link-elements-2{
+    font-family: 'Marvel';
+    font-weight: bold;
+    font-style: italic;
+    background-color:grey;
+    color: black;
+    position:absolute;
+    left: 250px; 
+    top: 100px;
+text-decoration: none;
+}
+.link-elements-3{
+    font-family: 'Marvel';
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    position:absolute;
+    left: 250px; 
+    top: 150px;
+text-decoration: none;
+}
+.link-elements-4{
+    font-family: 'Marvel';
+    font-weight: normal;
+    font-style: italic;
+    color:grey;
+    position:absolute;
+    position:absolute;
+    left: 250px; 
+text-decoration: underline;
+top: 200px;
+}
+/*Strings section*/
+.string-1{
+    position:absolute;
+    bottom: 482px; 
+    left: 250px; 
+    top: 250px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+}
+.string-2{
+    font-family: 'Marvel';
+    font-weight: bold;
+    font-style:normal;
+    color: black;
+    position:absolute;
+    bottom: 434px; 
+    left: 250px; 
+    top: 300px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+}
+.string-3{
+    font-family: 'Marvel';
+    font-weight: bold;
+    font-style:normal;
+    color: black;
+    position: absolute; 
+    bottom: 480px; 
+    right: 200px; 
+    top: 250px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+}
+.string-4{
+    position:absolute;
+    bottom: 385px; 
+    left: 250px; 
+    top: 350px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+}
+.string-5{
+    position:absolute;
+    bottom: 333px; 
+    left: 250px;
+    top: 400px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+}
+.string-6 {
+    position:absolute;
+    bottom: 282px; 
+    left: 250px;
+    top: 450px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 4px solid red;
+}
+.string-7{
+    position:absolute;
+    bottom: 433px; 
+    right: 200px; 
+    top: 300px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+}
+.string-8{
+    font-family: 'Marvel';
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    bottom: 380px; 
+    right: 200px; 
+    top: 350px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+}
+/*List section*/
+.list-checkbox-1{
+    font-family: 'Marvel';
+    font-weight: normal;
+    font-style: italic;
+    position: absolute; 
+    bottom: 600px; 
+    right: 310px; 
+    top: 50px;
+    line-height: 1px;
+}
+.list-checkbox-2{
+    font-family: 'Marvel';
+    font-weight: normal;
+    font-style: italic;
+    position: absolute; 
+    bottom: 500px; 
+    right: 300px; 
+    top: 100px;
+    line-height: 1px;
+}
+.list-checkbox-3{
+    font-family: 'Marvel';
+    font-weight: normal;
+    font-style: italic;
+    position: absolute; 
+    bottom: 400px; 
+    right: 300px; 
+    top: 150px;
+    line-height: 1px;
+}
+.list-radio-1{
+    font-family: 'Marvel';
+    font-weight: normal;
+    font-style: italic;
+    position: absolute; 
+    bottom:600px; 
+    right: 210px; 
+    top: 50px;
+    line-height: 1px;
+}
+.list-radio-2{
+    font-family: 'Marvel';
+    font-weight: normal;
+    font-style: italic;
+    position: absolute; 
+    bottom: 500px;
+    right: 200px; 
+    top: 100px;
+    line-height: 1px;
+}
+.list-radio-3{
+    font-family: 'Marvel';
+    font-weight: normal;
+    font-style: italic;
+    position: absolute; 
+    bottom: 400px; 
+    right: 200px; 
+    top: 150px;
+    line-height: 1px;
+}
+/*Button section*/
+.button-elements-1{
+    position: absolute; 
+    bottom: 290px; 
+    right: 350px; 
+    top: 400px;
+    line-height: 1px;
+    background-color: white;
+    border: 4px  solid blue;
+    color: blue;
+    padding: 15px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+.button-elements-2{
+    position: absolute; 
+    bottom: 290px; 
+    right: 200px; 
+    top: 400px;
+    line-height: 1px;
+    background-color: blue;
+    border: 4px solid blue;
+    color: white;
+    padding: 15px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
